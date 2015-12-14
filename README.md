@@ -8,13 +8,13 @@ with tab completion of subcommands.
 With [pathogen.vim](https://github.com/tpope/vim-pathogen) just do:
 
     cd ~/.vim/bundle
-    git clone https://github.com/markcornick/vim-ottoproject.git
+    git clone https://github.com/hashivim/vim-ottoproject.git
 
 If you prefer to use something besides pathogen, go ahead.
 
 ## Credits
 
-Written by Mark Cornick <https://www.markcornick.com/>. ISC license.
+Originally written by Mark Cornick <https://www.markcornick.com/>. ISC license.
 
 This project is intended to be a safe, welcoming space for collaboration, and
 contributors are expected to adhere to the [Contributor
