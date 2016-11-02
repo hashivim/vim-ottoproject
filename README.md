@@ -1,9 +1,7 @@
-# Call For Maintainers
+# No Longer Maintained
 
-This plugin, along with others like it, is now maintained by the
-[HashiVim](http://hashivim.github.io/) organization, which is looking for
-additional maintainers and contributors. See the HashiVim home page for
-further information.
+[Hashicorp has discontinued Otto](https://www.hashicorp.com/blog/decommissioning-otto.html)
+and, correspondingly, this plugin will no longer be updated.
 
 # vim-ottoproject
 
